@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @biancaturcanu
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning pragramming
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on everething that can provide me information
 - 📫 How to reach me turcanubianca@gmail.com
 
 <!---
